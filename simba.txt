@@ -1,0 +1,697 @@
+<page>
+  <title>Simba Software</title>
+  <url>https://simba.co/</url>
+  <content>¡Arriesga Todo!
+---------------
+
+Menos tu Facturación
+--------------------
+
+Facturación Electrónica;Nómina Electrónica;Documento Soporte;Documento Equivalente; POS
+---------------------------------------------------------------------------------------
+
+### 
+
+### ¡7 años en línea!
+
+#### 0 intermitencias, 0 caídas
+
+### 
+
+### +27 años
+
+#### experiencia
+
+### 
+
+### +4500
+
+#### usuarios
+
+*   Pioneros en validación previa y facturación electrónica.
+*   Somos el quinto proveedor autorizado por la DIAN.
+*   Transformamos e impulsamos tu compañía.
+*   Nuestras soluciones se alojan en servidores amazon.
+
+### Contáctanos  
+
+Ventas  
+
+---------
+
+Cartera  
+
+----------
+
+Soporte  
+
+----------
+
+### Nuestros Productos  
+
+### 
+
+### Certificados en Seguridad de la Información
+
+### 
+
+### Habilitados con Validación Previa
+
+##### 
+
+### Proveedor Tecnológico Certificado por la DIAN
+
+#### Selecciona la opción que mejor se adapte a tus necesidades
+
+Tendrás una solución 100% en la nube donde podrás emitir y recibir todos tus documentos electrónicos.
+
+*   Facturación Web
+*   Nómina Light
+*   Documento Soporte Web
+*   Recepción 085
+*   POS Web
+
+Tienes a tu disposición tableros de control para tener control en tiempo real de tus operaciones.
+
+Nos conectamos a tu sistema de planificación de recursos empresariales para la emisión y recepción de documentos.
+
+**Tipos de Conexión:**
+
+*   Web Services
+*   Archivo Plano
+
+Tendrás acceso a la plataforma web para la consulta de documentos electrónicos
+
+Podrás visualizar tableros de control en tiempo real
+
+### Algunos de Nuestros Clientes  
+
+### Permítenos ser tu proveedor tecnológico
+
+Al compartir tus datos nuestro equipo te contactará para concer más sobre tu negocio. Además, de aceptar la</content>
+</page>
+
+<page>
+  <title>Facturación Electronica</title>
+  <url>https://simba.co/factura-electronica/</url>
+  <content>La Factura Electrónica es una versión moderna y electrónica de las facturas tradicionales en papel. Legalmente, posee la misma validez que una factura en papel, pero se caracteriza por ser generada, validada, emitida, recibida y almacenada de manera electrónica, lo que ofrece varias ventajas adicionales. En términos tributarios, sirve como prueba de las transacciones de venta de bienes o servicios.</content>
+</page>
+
+<page>
+  <title>Documento Soporte</title>
+  <url>https://simba.co/documento-soporte/</url>
+  <content>Los beneficios de utilizar el documento soporte son significativos y multifacéticos, especialmente en términos de gestión fiscal y eficiencia operativa. Estos incluyen:
+
+**Facilitación de Declaraciones de Renta:** Permite a los usuarios utilizar los costos o deducciones registrados en este documento para su declaración de renta. Esto es crucial para una correcta y eficiente gestión fiscal, asegurando que se aprovechen todas las deducciones permitidas.
+
+**Desmaterialización de Comprobantes Fiscales:** Contribuye a la digitalización y reducción del uso de papel en los procesos contables y fiscales. Esta práctica no solo es ambientalmente sostenible, sino que también mejora la eficiencia al minimizar la necesidad de almacenar físicamente grandes volúmenes de documentos.
+
+**Actualización de Información Fiscal:** Ayuda a mantener la información relacionada con costos, deducciones e impuestos descontables reportados a la DIAN siempre actualizada y precisa. Esto es esencial para cumplir con las normativas fiscales y evitar posibles incongruencias o errores en los reportes.
+
+**Acceso a Servicios Electrónicos Avanzados:** Habilita el uso de nuevos servicios electrónicos proporcionados por la DIAN, como las devoluciones automáticas de saldos a favor y las declaraciones sugeridas. Estos servicios facilitan significativamente la gestión tributaria, agilizando procesos y reduciendo la carga administrativa para los contribuyentes.</content>
+</page>
+
+<page>
+  <title>Documento Equivalente Electrónico</title>
+  <url>https://simba.co/documento-equivalente-electronico/</url>
+  <content>En el caso de utilizar el documento electrónico equivalente al tiquete de máquina registradora con sistema P.O.S., es necesario identificar al comprador con:
+
+*   Nombre o razón social y número de identificación.
+*   Además, el emisor de este documento puede hacerlo sin importar el valor de la transacción.
+
+Es obligatorio especificar:
+
+*   La cantidad, unidad de medida, descripción detallada y códigos que faciliten la identificación de los productos vendidos o servicios prestados.
+
+Quienes estén obligados a emitir facturas y elijan usar el documento electrónico equivalente al tiquete de máquina registradora con sistemas P.O.S., deben implementar tecnologías que aseguren:
+
+1.1 La programación, control y ejecución de las funciones propias del punto de venta.
+
+1.2 La identificación de los productos o servicios, incluyendo el departamento al que pertenecen y la tarifa de impuesto sobre las ventas e impuesto nacional al consumo para cada uno.
+
+1.3 La agrupación de productos y/o servicios puede ser distinta a la de departamentos, pero de cualquier manera, debe poder identificarse en el servidor del punto de venta o en la terminal de venta, según corresponda.
+
+1.4 Los productos expuestos al público deben estar identificados con código de barras u otro sistema de identificación interna.</content>
+</page>
+
+<page>
+  <title>Punto de Venta – POS</title>
+  <url>https://simba.co/pos/</url>
+  <content>En el caso de utilizar el documento electrónico equivalente al tiquete de máquina registradora con sistema P.O.S., es necesario identificar al comprador con:
+
+*   Nombre o razón social y número de identificación.
+*   Además, el emisor de este documento puede hacerlo sin importar el valor de la transacción.
+
+Es obligatorio especificar:
+
+*   La cantidad, unidad de medida, descripción detallada y códigos que faciliten la identificación de los productos vendidos o servicios prestados.
+
+Quienes estén obligados a emitir facturas y elijan usar el documento electrónico equivalente al tiquete de máquina registradora con sistemas P.O.S., deben implementar tecnologías que aseguren:
+
+1.1 La programación, control y ejecución de las funciones propias del punto de venta.
+
+1.2 La identificación de los productos o servicios, incluyendo el departamento al que pertenecen y la tarifa de impuesto sobre las ventas e impuesto nacional al consumo para cada uno.
+
+1.3 La agrupación de productos y/o servicios puede ser distinta a la de departamentos, pero de cualquier manera, debe poder identificarse en el servidor del punto de venta o en la terminal de venta, según corresponda.
+
+1.4 Los productos expuestos al público deben estar identificados con código de barras u otro sistema de identificación interna.</content>
+</page>
+
+<page>
+  <title>Nómina Electronica</title>
+  <url>https://simba.co/nomina-electronica/</url>
+  <content>Nómina Electrónica  
+
+---------------------
+
+*   Nómina Light.
+*   Documento Soporte de Pago de Nómina Electrónico.
+*   Tableros de control.
+*   Reportes detallados.
+*   Conexión por Web Services a ERP’S.
+*   Archivo Plano
+*   Fácil y rápido
+*   Al día con la DIAN.
+
+### ¡Genera la nómina electrónica con Simba!  
+
+### 
+
+### Certificados en Seguridad de la Información
+
+### 
+
+### Habilitados con Validación Previa
+
+##### 
+
+### Proveedor Tecnológico Certificado por la DIAN
+
+### El Documento Soporte de Pago de Nómina Electrónica es una herramienta digital esencial para las empresas.
+
+Cada empleador debe enviar a la DIAN para cada empleado, en los primeros 10 días de cada mes. Este archivo es clave para reportar costos, deducciones e impuestos relacionados.
+
+Este documento detalla el salario, las deducciones y el neto a pagar, siendo esencial para la transparencia y el cumplimiento fiscal en la gestión de nóminas.
+
+Preguntas Frecuentes  
+
+-----------------------
+
+¿Qué es la nómina electrónica?
+
+La Nómina Electrónica es una herramienta clave para las empresas en su gestión financiera y tributaria. Es un comprobante esencial que permite a las empresas incorporar los pagos de nómina como parte de sus declaraciones, utilizándolos como respaldo de costos y/o deducciones.
+
+¿Qué debe tener la nómina electrónica?
+
+Según la resolución 0013 del 11 de febrero de 2021 emitida por la Dian, la nómina electrónica debe contener la siguiente información:
+
+1\. Denominación como documento de soporte de pago de nómina.  
+2\. Nombre completo o razón social junto al NIT de la empresa o sujeto contratante.  
+3\. Nombre completo del empleado que recibe el pago.  
+4\. Firma digital del empleado que recibe el pago.  
+5\. Fecha y hora en que se genera el soporte.  
+6\. CUNE (Código único del documento de soporte de pago de nómina electrónica).  
+7\. Numeración consecutiva del sistema interno.  
+8\. Valores por conceptos devengados y deducidos de nómina.  
+9\. Valor de diferencia del valor total devengado de nómina.  
+10\. Información del Anexo técnico documento soporte de pago de Nómina Electrónica  
+11\. Medio por el cual se va a realizar el pago de nómina al empleado.  
+12\. Nombre completo o razón social y NIT del proveedor del sistema de nómina electrónica.
+
+¿Cuándo debo implementar la nómina electrónica?
+
+Según las resoluciones 000042 de 2020 y 000012 de 2021 emitidas por la DIAN, todas las empresas que tengan vinculado uno o más empleados deberán implementar la nómina electrónica en 2022. Para este objetivo se estableció un cronograma en el que se dieron a conocer las fechas y plazos para cada tipo de empresa.
+
+¿Cuál es la Resolución de nómina electrónica emitida por la Dian en 2021?
+
+Se trata de la Resolución 0013 de 11 de febrero de 2021, la cual establece que a partir de 2022 todas las empresas con uno o más trabajadores vinculados deberán implementar un sistema de nómina electrónico y generar la emisión digital de los soportes.
+
+¿Cuál es la importancia de la nómina electrónica en las empresas?
+
+Implementar la nómina electrónica aporta soluciones efectivas para los diversos procesos contables, reduciendo la carga hasta en un 85% y eliminando la probabilidad de cometer errores. Además, es un servicio que se integra al sistema de facturación electrónica, facilitando toda la gestión requerida, incluyendo la emisión obligatoria de soportes a la DIAN.
+
+¿Cómo habilitar la nómina electrónica en la DIAN??
+
+Este proceso lo debes realizar en la página web de la Dian, allí deberás realizar los siguientes pasos:
+
+1\. Ingresar al módulo de facturación electrónica y después seleccionar la opción de Soporte de Pago de Nómina Electrónica.  
+2\. Registra tu empresa.  
+3\. Ingresa en la opción Representante Legal y agrega a quienes estarán autorizados para reportar y transmitir la nómina electrónica de tu empresa.  
+4\. Registra el proveedor de sistema de nómina electrónica que has elegido para tu empresa y selecciona Adicionar.
+
+¿Quién está obligado a generar este documento?
+
+El individuo responsable es aquel que necesita este documento como respaldo para costos, gastos y deducciones.
+
+¡Arriesga Todo!
+---------------
+
+Menos tu Facturación
+--------------------
+
+### 
+
+### ¡7 años en línea!
+
+#### 0 intermitencias, 0 caídas
+
+### 
+
+### +27 años
+
+#### experiencia
+
+### 
+
+### +4500
+
+#### usuarios
+
+### Permítenos ser tu proveedor tecnológico
+
+Al compartir tus datos nuestro equipo te contactará para concer más sobre tu negocio. Además, de aceptar la</content>
+</page>
+
+<page>
+  <title>Recepción Electrónica</title>
+  <url>https://simba.co/recepcion-electronica/</url>
+  <content>Nos conectamos por medio de IMAP a bandejas de correo empresariales o comerciales para descargar automáticamente los correos y analizar y detectar cuándo son facturas electrónicas
+
+Somos capaces de interpretar las reglas básicas de negocio y etiquetar las facturas de acuerdo al valor de campos específicos presentes en el Documento Adjunto ATD (Attached Document).
+
+Nos sincronizamos con el Portal del Facturador Electrónico Simba para asegurar una trazabilidad completa de todos los documentos. Esta sincronización también es compatible con otros sistemas y contamos con una base de datos propia para el procesamiento eficiente de la información
+
+Al compartir tus datos nuestro equipo te contactará para concer más sobre tu negocio. Además, de aceptar la</content>
+</page>
+
+<page>
+  <title>Sector Salud</title>
+  <url>https://simba.co/sector-salud/</url>
+  <content>### Facturación Electrónica  
+
+En la resolución 2806, se informa el funcionamiento de los RIPS para las facturas. Esta normativa permite adjuntar a las facturas electrónicas un archivo de tipo Json con los datos de los RIPS según la atención. Con Simba puedes hacerlo fácil y rápido con procesos automatizados.
+
+Datos RIPS
+----------
+
+*   Usuario
+*   Transacción
+*   Servicios – Tecnologías
+*   Consultas
+*   Procedimientos
+
+*   Urgencias
+*   Hospitalización
+*   Recién Nacidos
+*   Medicamentos
+*   Otros Servicios
+
+Al compartir tus datos nuestro equipo te contactará para concer más sobre tu negocio. Además, de aceptar la
+
+### En Simba contamos con todos los campos exigidos para la factura tipo salud.  
+
+*   Primer nombre
+*   Segundo nombre
+*   Primer apellido
+*   Segundo apellido
+*   Tipo documento
+*   Número documento
+*   Tipo de usuario
+*   Modalidades de contratación y de pago
+*   Tipo de plan voluntario de salud
+*   Número de autorización
+
+*   Número de mi prescripción MIPRES
+*   Número de contrato
+*   Número de póliza
+*   Fecha de inicio
+*   Fecha final
+*   Copago
+*   Cuota moderadora
+*   Cuota de recuperación
+*   Pagos compartidos en planes voluntarios
+
+### 
+
+### Certificados en Seguridad de la Información
+
+### 
+
+### Habilitados con Validación Previa
+
+##### 
+
+### Proveedor Tecnológico Certificado por la DIAN
+
+#### Contamos con todas las funcionalidades que exige la resolución para el manejo de RIPS en las facturas electrónicas
+
+Si NO cuentas con un sistema de facturación
+
+Tendrás una solución 100% en la nube donde podrás emitir y recibir todos tus documentos electrónicos.
+
+*   Facturación Web
+*   Nómina Light
+*   Documento Soporte Web
+*   Recepción 085
+*   POS Web
+
+Tienes a tu disposición tableros de control para tener control en tiempo real de tus operaciones.
+
+Si cuentas con un sistema de facturación
+
+Nos conectamos a tu sistema contable para realizar la facturación electrónico y/o transmitir el documento equivalente a la DIAN
+
+**Tipos de Conexión:**
+
+*   Web Services
+*   Archivo Plano
+
+Tendrás acceso a la plataforma web para la consulta de documentos electrónicos
+
+Algunos de Nuestros Clientes Sector Salud
+-----------------------------------------
+
+### Permítenos ser tu proveedor tecnológico
+
+Al compartir tus datos nuestro equipo te contactará para concer más sobre tu negocio. Además, de aceptar la</content>
+</page>
+
+<page>
+  <title>Servicios Públicos</title>
+  <url>https://simba.co/servicios-publicos/</url>
+  <content>Tratándose del documento expedido para los servicios públicos domiciliaros, deberá indicar la descripción específica o genérica de bienes o servicios, los descuentos, financiación, subsidios, otros cargos e ingresos asociados.</content>
+</page>
+
+<page>
+  <title>Transporte de Carga</title>
+  <url>https://simba.co/transporte-de-carga/</url>
+  <content>Para cumplir la Resolución 20223040045515 del 23 de agosto de 2023
+
+La fecha máxima para que inicies a enviar la facturación electrónica al RNDC es el
+
+La Resolución No. 20223040045515 de agosto 5 de 2022 «Por la cual se actualiza el sistema del Registro Nacional de Despachos de Carga – RNDC y se dictan otras disposiciones», dictamina que se debe reportar la facturación electrónica con el código de factura No. 012 y el Registro de Viaje Municipal en el sistema del Registro Nacional de Despachos de Carga – RNDC.
+
+Al compartir tus datos nuestro equipo te contactará para concer más sobre tu negocio. Además, de aceptar la
+
+Al compartir tus datos nuestro equipo te contactará para concer más sobre tu negocio. Además, de aceptar la</content>
+</page>
+
+<page>
+  <title>Peajes</title>
+  <url>https://simba.co/peajes/</url>
+  <content>En **Simba Software**, hemos adelantado todos los pasos necesarios para garantizarte el cumplimiento total de la **Resolución 000165 de 2023**, referente al documento equivalente electrónico para el cobro de peajes.
+
+Nuestro sistema ya está en operación y habilitado, brindando una solución tecnológica de vanguardia para la emisión del **Documento Electrónico Equivalente de Peajes**.
+
+No te preocupes por las complejidades de la implementación, ya que nosotros lo hemos resuelto todo por ti. Ahora, tus operaciones podrán cumplir con la normativa vigente de manera eficiente y automatizada.</content>
+</page>
+
+<page>
+  <title>Juegos Localizados</title>
+  <url>https://simba.co/juegos-localizados/</url>
+  <content>Para cumplir la Resolución 000165 del 1 de noviembre de 2023
+
+La fecha máxima para que implementes el documento equivalente electrónico es el
+
+Al compartir tus datos nuestro equipo te contactará para concer más sobre tu negocio. Además, de aceptar la
+
+Nuestro software de facturación está totalmente alineado con los lineamientos exigidos por la DIAN para la emisión del Documento Equivalente Electrónico en juegos localizados, garantizando el cumplimiento de:
+
+Los documentos equivalentes son emitidos por aquellos que están obligados a facturar, específicamente en situaciones de venta de bienes o servicios concretos.
+
+Siempre que se adhieran a las regulaciones y criterios establecidos por la normativa vigente, poseen la misma validez legal que una factura electrónica de venta.
+
+Al compartir tus datos nuestro equipo te contactará para concer más sobre tu negocio. Además, de aceptar la</content>
+</page>
+
+<page>
+  <title>Anexo Técnico 1.9</title>
+  <url>https://simba.co/anexo-tecnico-facturacion-electronica/</url>
+  <content>### ICL – Impuesto al Consumo de Licores
+
+**Licores (Botella de 750 CC)**  
+Se aplica un impuesto de $325 por cada grado de alcohol en la botella.
+
+**Vinos y Aperitivos Vínicos (Botella de 750 CC)**  
+El impuesto es de $220 por cada grado de alcohol en la botella.
+
+**Departamento Archipiélago de San Andrés, Providencia y Santa Catalina**  
+Se impone un impuesto de $51 por cada grado de alcohol en las botellas de 750 CC
+
+**Botellas de Licor o Vinos de Capacidad Distinta a 750 CC**  
+El impuesto se calculará de manera proporcional usando la regla de tres
+
+( CC del Producto \* Tarifa ICL)</content>
+</page>
+
+<page>
+  <title>Normativa</title>
+  <url>https://simba.co/normativa/</url>
+  <content>Por la cual se modifica el artículo 23 y parcialmente el parágrafo del artículo 62 de la  
+Resolución 000165 de 2023
+
+Por la cual se desarrolla el sistema de facturación, los proveedores tecnológicos, se adopta la versión 1.9 del anexo técnico de factura electrónica de venta, se expide el anexo técnico 1.0 del documento equivalente electrónico, y se dictan otras disposiciones en materia del sistema de facturación.
+
+Por la cual se actualiza el sistema del Registro Nacional de Despachos de Carga – RNDC y se dictan otras disposiciones.
+
+Por la cual se desarrolla el registro de la factura electrónica de venta como título valor ante la DIAN y se expide el anexo técnico correspondiente y se dictan otras disposiciones relacionadas a los acuses de facturación electrónica en los casos que corresponda.
+
+Por la cual se implementa y desarrolla en el sistema de facturación electrónica la funcionalidad del documento soporte en adquisiciones efectuadas a sujetos no obligados a expedir factura de venta o documento equivalente, para su transmisión electrónica y se expide el anexo técnico para este documento.
+
+Por la cual se establece un plazo especial para la generación y transmisión del documento soporte de pago de nómina electrónica para empleadores que tienen a su cargo entre uno (1) y diez (10) empleados.
+
+Estabilización en la actualización del Sistema de Factura Electrónica. Estos cambios tecnológicos requieren un periodo de estabilización que está transcurriendo y que se espera finalice lo más pronto posible.
+
+Por la cual se modifican el artículo 1 de la Resolución 000037 del 05 de mayo de 2021, el numeral 1 del artículo 6 de la Resolución 000013 del 11 de febrero de 2021, modificado por el artículo 3 de la Resolución 000037 del 05 de mayo de 2021, el inciso 2 del parágrafo 4 del artículo 55 de la Resolución 000042 del 05 de mayo de 2020, adicionado por el artículo 5 de la Resolución 000012 del 9 de febrero de 2021 y modificado por el artículo 2 de la Resolución 000037 del 05 de mayo de 2021 y se adiciona un parágrafo transitorio al artículo 8 de la Resolución 000013 del 11 de febrero de 2021.
+
+Por la cual se establece la fecha en la cual quedará disponible cada una de las funcionalidades del sistema de factura electrónica para la implementación de los anexos técnicos de las Resoluciones 000012, 000013 y 000015 de 2021 y se dictan otras disposiciones.
+
+Por la cual se desarrolla el registro de la factura electrónica de venta como título valor y se expide el anexo técnico de registro de la factura electrónica de venta como título valor.
+
+Por la cual se implementa y desarrolla en el sistema de facturación electrónica la funcionalidad del documento soporte de pago de nómina electrónica y se adopta el anexo técnico para este documento.
+
+Por la cual se modifican y adicionan unos artículos a la Resolución 000042 de 05 de mayo de 2020 y se establecen otras disposiciones.
+
+Por la cual se desarrollan los sistemas de facturación, los proveedores tecnológicos, el registro de la factura electrónica de venta como título valor, se expide el anexo técnico de factura electrónica de venta y se dictan otras disposiciones en materia de sistemas de facturación.
+
+Por la cual se modifica el numeral 15 y se adicionan los numerales 22 y 23 al artículo 1°, se modifican el numeral 2 del artículo 9 y el artículo 14 de la Resolución 000030 del 29 de abril de 2019.
+
+Por la cual se señalan los requisitos de la factura electrónica de venta con validación previa a su expedición, así como, las condiciones, términos y mecanismos técnicos y tecnológicos para su implementación.
+
+Por la cual se señalan los sujetos obligados a expedir factura electrónica de venta con validación previa a su expedición y se establece el calendario para su implementación.
+
+Por la cual se habilitan a las personas naturales, jurídicas y demás sujetos que de manera voluntaria hayan optado ser facturadores electrónicos.
+
+Por la cual se selecciona un grupo de sujetos obligados a facturar electrónicamente y se establecen los requisitos que aplican en caso de impedimento, inconvenientes tecnológicos y/o de tipo comercial.
+
+Por la cual la Dirección de Impuestos y Aduanas Nacionales – DIAN, adopta la Clasificación de Actividades Económicas – CIIU revisión 4 adaptada para Colombia.
+
+Por la cual se reglamenta el mecanismo único de validación del Registro Individual de Prestación de Servicios de Salud — RIPS como soporte de la Factura Electrónica de Venta en Salud y se dictan otras disposiciones.
+
+Por la cual se modifica la Resolución 1036 de 2022 en relación con el plazo para la implementación del Registro Individual de Prestación de Servicios de Salud, como soporte de la factura electrónica de venta en salud, y se sustituye su anexo técnico.
+
+Por la cual se modifica la Resolución 510 de 2022 en el sentido de sustituir su anexo técnico y ampliar el plazo de implementación de este.
+
+Por la cual se adoptan los campos de datos adicionales para la generación de la factura electrónica de venta en el sector salud y se establecen disposiciones en cuanto al procedimiento para su generación y radicación.
+
+Por la cual se adopta el Anexo Técnico “Campos de datos adicionales del sector salud incluidos en la generación de la factura electrónica de venta en el sector salud” y se establecen disposiciones para la generación de la facturación electrónica de venta en el sector salud.
+
+Prorrogar por el término de seis (6) meses, el plazo establecido en el inciso 1° del artículo 19 de la Resolución número 20223040045515 del 2022, para que las empresas de Servicio Público de Transporte Terrestre Automotor de Carga den cumplimiento al Registro de Facturación Electrónica en el Registro Nacional de Despachos de Carga (RNDC).  
+Inicia el envío de la facturación al RNDC el 23 de febrero de 2024.
+
+Por el cual se reglamentan los artículos 511, 615, 616-1, 616-2, 616-4, 617, 618, 618-2 Y 771-2 del Estatuto Tributario, 26 de la Ley 962 de 2005 y 183 de la Ley 1607 de 2012 y se sustituye el Capítulo 4 del Título 1 de la Parte 6 del Libro 1 del Decreto 1625 de 2016 Único Reglamentario en Materia Tributaria.
+
+Por medio de la cual se adoptan normas para la promoción del crecimiento económico, el empleo, la inversión, el fortalecimiento de las finanzas públicas y la progresividad, equidad y eficiencia del sistema tributario, de acuerdo con los objetivos que sobre la materia impulsaron la ley 1943 de 2018 y se dictan otras disposiciones.
+
+Por la cual se expiden normas de financiamiento para el restablecimiento del equilibrio del presupuesto general y se dictan otras disposiciones.
+
+Por el cual se reglamentan las condiciones de expedición e interoperabilidad de la factura electrónica con fines de masificación y control fiscal.</content>
+</page>
+
+<page>
+  <title>Simba Enterprise</title>
+  <url>https://simba.co/enterprise/</url>
+  <content>### Estamos comprometidos con la
+
+### transformación digital
+
+### de tu empresa
+
+### Nuestros Productos  
+
+Modelos de Transmisión
+----------------------
+
+Archivo Plano
+-------------
+
+Web Services
+------------
+
+### 
+
+### Certificados en Seguridad de la Información
+
+### 
+
+### Habilitados con Validación Previa
+
+##### 
+
+### Proveedor Tecnológico Certificado por la DIAN
+
+Alta Disponibilidad
+-------------------
+
+(99,6%)
+-------
+
+¡7 años en línea!
+-----------------
+
+0 caídas, 0 intermitencias
+--------------------------
+
+### +27 años de experiencia
+
+### +4500  
+usuarios
+
+### Algunos de Nuestros Clientes  
+
+### Permítenos ser tu proveedor tecnológico
+
+Al compartir tus datos nuestro equipo te contactará para concer más sobre tu negocio. Además, de aceptar la</content>
+</page>
+
+<page>
+  <title>Contacto Principal</title>
+  <url>https://simba.co/contacto/</url>
+  <content>*   [Documentos](https://simba.co/)
+    
+    *   [Facturación Electrónica](https://simba.co/factura-electronica/)
+        
+    *   [Nómina Electronica](https://simba.co/nomina-electronica/)
+        
+    *   [Documento Soporte](https://simba.co/documento-soporte/)
+        
+    *   [Recepción Electrónica](https://simba.co/recepcion-electronica/)
+        
+    *   [Documento Equivalente Electrónico](https://simba.co/documento-equivalente-electronico/)
+        
+    
+*   [Verticales](https://simba.co/)
+    
+    *   [Sistema POS](https://simba.co/pos/)
+        
+    *   [Sector Salud](https://simba.co/sector-salud/)
+        
+    *   [Servicios Públicos](https://simba.co/servicios-publicos/)
+        
+    *   [Transporte de Carga](https://simba.co/transporte-de-carga/)
+        
+    *   [Peajes](https://simba.co/peajes/)
+        
+    *   [Juegos Localizados](https://simba.co/juegos-localizados/)
+        
+    
+*   [Anexo 1.9](https://simba.co/anexo-tecnico-facturacion-electronica/)
+    
+*   [Normativa](https://simba.co/normativa/)
+    
+*   [Enterprise](https://simba.co/enterprise/)
+    
+*   [Contacto](https://simba.co/contacto/)
+    
+*   [Iniciar Sesión](https://www.fe2.simba.co/SIMBA_WB/Account/Login)
+    
+
+[Open Menu](#grve-responsive-menu-area)
+
+[Close](#)
+
+*   [Documentos](https://simba.co/)
+    
+    *   [Facturación Electrónica](https://simba.co/factura-electronica/)
+        
+    *   [Nómina Electronica](https://simba.co/nomina-electronica/)
+        
+    *   [Documento Soporte](https://simba.co/documento-soporte/)
+        
+    *   [Recepción Electrónica](https://simba.co/recepcion-electronica/)
+        
+    *   [Documento Equivalente Electrónico](https://simba.co/documento-equivalente-electronico/)
+        
+    
+*   [Verticales](https://simba.co/)
+    
+    *   [Sistema POS](https://simba.co/pos/)
+        
+    *   [Sector Salud](https://simba.co/sector-salud/)
+        
+    *   [Servicios Públicos](https://simba.co/servicios-publicos/)
+        
+    *   [Transporte de Carga](https://simba.co/transporte-de-carga/)
+        
+    *   [Peajes](https://simba.co/peajes/)
+        
+    *   [Juegos Localizados](https://simba.co/juegos-localizados/)
+        
+    
+*   [Anexo 1.9](https://simba.co/anexo-tecnico-facturacion-electronica/)
+    
+*   [Normativa](https://simba.co/normativa/)
+    
+*   [Enterprise](https://simba.co/enterprise/)
+    
+*   [Contacto](https://simba.co/contacto/)
+    
+*   [Iniciar Sesión](https://www.fe2.simba.co/SIMBA_WB/Account/Login)
+    
+
+¡Arriesga Todo!
+---------------
+
+Menos tu Facturación
+--------------------
+
+### 
+
+### ¡7 años en línea!
+
+#### 0 intermitencias, 0 caídas
+
+### 
+
+### +27 años
+
+#### experiencia
+
+### 
+
+### +4500
+
+#### usuarios
+
+[+57 300 233 5210](https://api.whatsapp.com/send/?phone=573002335210&text=%C2%A1Hola+Simba!)
+
+Al compartir tus datos nuestro equipo te contactará para concer más sobre tu negocio. Además, de aceptar la
+
+[Política de tratamientos de datos personales](https://simba.co/wp-content/uploads/2023/11/PO-CA-14-Politica-de-Proteccion-de-datos-personales_V2.pdf)
+
+Por favor, activa JavaScript en tu navegador para completar este formulario.
+
+Nombre y Apellido
+
+Empresa
+
+WhatsApp
+
+Correo Electrónico
+
+Mensaje
+
+### Algunos de Nuestros Clientes  
+
+[Close](#)</content>
+</page>
